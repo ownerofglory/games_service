@@ -5,7 +5,6 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	_ "github.com/lib/pq"
 	"github.com/ownerofglory/games_service/handler"
 )
 
